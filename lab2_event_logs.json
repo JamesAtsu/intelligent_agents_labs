@@ -1,0 +1,47 @@
+[
+  {
+    "event_id": "EVT_0001",
+    "disaster_type": "wildfire",
+    "location": "Hospital Area",
+    "severity_level": 5,
+    "damage_assessment": "71%",
+    "timestamp": "2026-01-29T11:27:57.734406",
+    "affected_population": 2409
+  },
+  {
+    "event_id": "EVT_0002",
+    "disaster_type": "landslide",
+    "location": "Industrial Zone",
+    "severity_level": 4,
+    "damage_assessment": "25%",
+    "timestamp": "2026-01-29T11:27:57.734649",
+    "affected_population": 2925
+  },
+  {
+    "event_id": "EVT_0003",
+    "disaster_type": "landslide",
+    "location": "Shopping District",
+    "severity_level": 3,
+    "damage_assessment": "27%",
+    "timestamp": "2026-01-29T11:27:57.734879",
+    "affected_population": 2731
+  },
+  {
+    "event_id": "EVT_0004",
+    "disaster_type": "hurricane",
+    "location": "Downtown District",
+    "severity_level": 3,
+    "damage_assessment": "47%",
+    "timestamp": "2026-01-29T11:27:57.735105",
+    "affected_population": 1701
+  },
+  {
+    "event_id": "EVT_0005",
+    "disaster_type": "wildfire",
+    "location": "Agricultural Region",
+    "severity_level": 3,
+    "damage_assessment": "10%",
+    "timestamp": "2026-01-29T11:27:57.735319",
+    "affected_population": 1281
+  }
+]
